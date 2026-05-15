@@ -51,7 +51,9 @@ Automated Way:
 6. Staff focuses on important work
 
 ## Screenshots
-![create onboaeding task](create onboarding.png)
+<img width="1902" height="846" alt="set type of customer" src="https://github.com/user-attachments/assets/c5c0af57-776c-4428-9e2c-b9d6e1ff5529" />
+
+<img width="1913" height="923" alt="create onboarding task" src="https://github.com/user-attachments/assets/7a7d6a99-250c-4bba-9848-e0c5c9d1b774" />
 
 **Submitted by:** Sorra Vedakshari
 **Date:** 15 May 2026
